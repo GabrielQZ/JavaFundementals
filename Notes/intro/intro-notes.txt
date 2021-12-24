@@ -1,0 +1,103 @@
+3- Anatomy of a Java Program
+Create a text file in your JavaFundementals project called “java-terms-of-art.txt
+Store the following terms in your text file
+Define the terms: method, class, function, field, variable
+Define the terms in relation to each other. ie a method is a function, defined within an object…a function is…
+Commit changes to this file as you add more definitions and explanations
+
+4- Your First Java Program
+Complete this code in the project you first created(JavaFundementals), commit the completed code to GitHub when done
+
+
+5- How Java Code Gets Executed
+Know the difference between interpreted and compiled languages
+Define the terms and explain the difference between interpreted and compiled in your terms of art text document. Commit when complete
+
+
+2) Data Types ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+	Priority List:
+	1- Introduction
+2- Variables
+3- Primitive Types
+4- Reference Types
+5- Primitive vs Reference Types
+6- Strings
+7- Escape Sequences
+8- Arrays
+9- Multi-dimensional Arrays
+10- Constants
+11- Arithmetic Expressions
+12- Order of Operations
+13- Casting
+14- The Math Class
+15- Formatting Numbers
+16- Reading Input
+17- Project- Mortgage Calculator
+18- Solution
+
+
+
+	Complete every video in this section
+	For each data type in this section, add the definition and example in your terms of art document.
+	When Mosh creates example code, create that code along with him in your JavaFundementals project.
+
+3) Control Flow ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+	Priority List
+1- Introduction
+2- Comparison Operators
+3- Logical Operators
+4- If Statements
+5- Simplifying If Statements
+6- The Ternary Operator
+7- Switch Statements
+8- Exercise- FizzBuzz
+9- For Loops
+10- While Loops
+11- Do..While Loops
+12- Break and Continue Statements
+13- For-Each Loop
+14- Project- Mortgage Calculator
+15- Solution
+
+	Complete every video in this section
+
+	By the end of this section be able to
+define “control flow”
+create control flow logic and justify your control flow choices by comparing to other types. ie “I use if/else statements instead of switch statements because…”
+
+Add any definitions and examples to your JavaFundementals project. You can continue to add to your terms of art document. Try to organize this text file by creating clear labels to break up the video sections ie BASIC TERMS, DATA TYPES, CONTROL FLOW
+
+
+4) Clean Coding
+	Priority List:
+	1- Introduction
+2- Clean Coding
+3- Creating Methods
+4- Refactoring
+5- Extracting Methods
+6- Refactoring Repetitive Patterns
+7- Project- Payment Schedule
+8- Solution
+9- Refactoring the Code
+10- Summary
+
+	Complete every video in this section
+
+
+This section will show you a variety of best practices for clean coding. There are still a lot of practices to learn. Take learning this topic slowly and always try to self correct rather than justifying “your own way”.
+
+
+5) Debugging
+
+	Priority List:
+1- Introduction
+2- Types of Errors
+3- Common Syntax Errors
+4- Debugging Java Applications
+5- Packaging Java Applications
+6- Course Wrap Up
+
+	Complete every video in this section
+From this section we should pick up on tips and tricks to help debug code; Reading error messages, identifying the most common bugs, finding specific line numbers, and character numbers to locate a bug. You are not expected to come out of this section a proficient debugger.
+
+
